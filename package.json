@@ -1,0 +1,15 @@
+{
+  "name": "mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mp3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "id3-meta": "^1.0.0",
+    "id3-parser": "^1.2.0"
+  }
+}
