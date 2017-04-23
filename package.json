@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "id3-meta": "^1.0.0",
     "id3-parser": "^1.2.0"
   }
 }
