@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^4.0.3",
     "id3-parser": "^1.2.0"
   }
 }
